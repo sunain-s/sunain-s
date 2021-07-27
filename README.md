@@ -18,6 +18,6 @@ Additionally I intend to become more proficient at C# development and software d
 Rust is also a possible avenue I may want to go down, having heard great things about it. 
 
 # Contact Me
-Contact me via my listed email ===> Asianguy_123@outlook.com
+Contact me via my listed email ===> asi4nguy123@gmail.com
 
 Or if you have Discord and would prefer to talk there, email me your reason for contacting and your discord tag, and I will get back to you via email to confirm
