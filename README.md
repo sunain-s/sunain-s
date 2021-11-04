@@ -9,13 +9,13 @@ I'm using GitHub as online storage for my projects, and hopefully to meet and co
 
 # Plans and Ongoing Projects
 
-Currently I am designing and creating a portfolio website frontend, as well as planning to make another retro game in Python.
-
-In the future I would like to delve deeper into bot development with discord.py or discord,js (most likely the former), and into web backend and databasing using Python.
-
-Additionally I intend to become more proficient at C# development and software development that has more practical uses than a basic password tester. 
-
-Rust is also a possible avenue I may want to go down, having heard great things about it. 
+- Portfolio Website (always in development) ~ https://github.com/Asianguy123/PortfolioSite
+- Python 
+  - utility programs e.g. https://github.com/Asianguy123/Base-Conversion-Calculator
+  - retro games e.g. https://github.com/Asianguy123/Flappy-Bird
+- Bot Development using discord.py and discord.js
+- C# + .NET app development ~ https://github.com/Asianguy123/Password-Strength
+- Artifical Intelligence and machine learning
 
 # Contact Me
 Contact me via my listed email ===> asi4nguy123@gmail.com
