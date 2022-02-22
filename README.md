@@ -21,3 +21,9 @@ I'm using GitHub as online storage for my projects. I occassionally make somethi
 Contact me via my listed email ===> asi4nguy123@gmail.com
 
 Or if you have Discord and would prefer to talk there, email me your reason for contacting and your discord tag, and I will get back to you via email to confirm
+
+# Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asianguy123&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asianguy123&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
