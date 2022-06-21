@@ -4,7 +4,7 @@ I'm using GitHub as online storage for my projects. I occassionally make somethi
 # Interests
 
 - Python: script writing, retro game recreation and modification
-- Web Development using HTML, CSS and little JavaScript
+- Web Development using HTML, CSS and currently little JavaScript
 - Artificial Intelligence
 
 # Plans
@@ -13,9 +13,8 @@ I'm using GitHub as online storage for my projects. I occassionally make somethi
 - Python 
   - utility programs
   - retro games
-- Bot Development using discord.py and discord.js
-- C# + .NET app development
 - Artifical Intelligence and machine learning
+- C programming
 
 # Contact
 Contact me via my listed email ===> asi4nguy123@gmail.com
