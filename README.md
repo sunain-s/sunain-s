@@ -3,16 +3,22 @@ I'm using GitHub as online storage for my projects. I occassionally make somethi
 
 # Interests
 
-- Python: script writing, retro game recreation and modification
-- Web Development using HTML, CSS and currently little JavaScript
+- Implementing maths and physics concepts e.g. kinematics, simulations
+- Algorithms
+- Retro game recreation
 - Artificial Intelligence
+
+## Languages
+
+- Python 
+- HTML and CSS
+- JavaScript basics
+- learning Rust
 
 # Plans
 
-- Portfolio Website (updated inconsistently) ~ https://github.com/Asianguy123/PortfolioSite
-- Python 
-  - utility programs
-  - retro games
+- Portfolio Website (updated very inconsistently) ~ https://github.com/Asianguy123/PortfolioSite
+- Python/Rust algorithm and simulation implementations
 - Artifical Intelligence and machine learning
 - C programming
 
