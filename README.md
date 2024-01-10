@@ -3,7 +3,7 @@ I'm using GitHub as online storage for my projects. I occassionally make somethi
 
 # Interests
 
-- Implementing maths and physics concepts e.g. kinematics, simulations
+- Implementing theory i find interesting e.g. kinematics, simulations
 - Algorithms
 - Retro game recreation
 - Artificial Intelligence
