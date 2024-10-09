@@ -1,5 +1,5 @@
 # Hello
-I'm using GitHub as online storage for my projects. I occassionally make something decent.
+I'm using GitHub as online storage for my projects. I might eventually make something decent.
 
 ## What I do
 
