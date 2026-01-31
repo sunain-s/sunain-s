@@ -31,9 +31,11 @@ I might eventually make something decent.
 
 ## Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunain-s&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=sunain-s&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunain-s&layout=compact&langs_count=8&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunain-s&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunain-s&layout=compact&theme=dracula)
 
 ## Contact
 Contact me via my listed email ===> asi4nguy123@gmail.com
